@@ -1,0 +1,231 @@
+{
+  "nodes": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M",
+    "N",
+    "O"
+  ],
+  "edges": [
+    {
+      "from": "A",
+      "to": "B",
+      "distance": 4.0,
+      "time": 6.0,
+      "closed": false
+    },
+    {
+      "from": "A",
+      "to": "C",
+      "distance": 2.0,
+      "time": 3.0,
+      "closed": false
+    },
+    {
+      "from": "B",
+      "to": "C",
+      "distance": 1.0,
+      "time": 2.0,
+      "closed": false
+    },
+    {
+      "from": "B",
+      "to": "D",
+      "distance": 5.0,
+      "time": 7.0,
+      "closed": false
+    },
+    {
+      "from": "C",
+      "to": "E",
+      "distance": 7.0,
+      "time": 8.0,
+      "closed": false
+    },
+    {
+      "from": "C",
+      "to": "F",
+      "distance": 4.0,
+      "time": 5.0,
+      "closed": false
+    },
+    {
+      "from": "D",
+      "to": "E",
+      "distance": 2.0,
+      "time": 3.0,
+      "closed": false
+    },
+    {
+      "from": "D",
+      "to": "G",
+      "distance": 6.0,
+      "time": 9.0,
+      "closed": false
+    },
+    {
+      "from": "E",
+      "to": "F",
+      "distance": 1.0,
+      "time": 2.0,
+      "closed": false
+    },
+    {
+      "from": "E",
+      "to": "H",
+      "distance": 3.0,
+      "time": 4.0,
+      "closed": false
+    },
+    {
+      "from": "F",
+      "to": "H",
+      "distance": 5.0,
+      "time": 6.0,
+      "closed": false
+    },
+    {
+      "from": "F",
+      "to": "I",
+      "distance": 8.0,
+      "time": 10.0,
+      "closed": false
+    },
+    {
+      "from": "G",
+      "to": "H",
+      "distance": 2.0,
+      "time": 3.0,
+      "closed": false
+    },
+    {
+      "from": "G",
+      "to": "J",
+      "distance": 7.0,
+      "time": 8.0,
+      "closed": false
+    },
+    {
+      "from": "H",
+      "to": "I",
+      "distance": 2.0,
+      "time": 3.0,
+      "closed": false
+    },
+    {
+      "from": "H",
+      "to": "K",
+      "distance": 6.0,
+      "time": 7.0,
+      "closed": false
+    },
+    {
+      "from": "I",
+      "to": "L",
+      "distance": 4.0,
+      "time": 5.0,
+      "closed": false
+    },
+    {
+      "from": "I",
+      "to": "M",
+      "distance": 9.0,
+      "time": 11.0,
+      "closed": false
+    },
+    {
+      "from": "J",
+      "to": "K",
+      "distance": 1.0,
+      "time": 2.0,
+      "closed": false
+    },
+    {
+      "from": "J",
+      "to": "N",
+      "distance": 8.0,
+      "time": 10.0,
+      "closed": false
+    },
+    {
+      "from": "K",
+      "to": "L",
+      "distance": 3.0,
+      "time": 4.0,
+      "closed": false
+    },
+    {
+      "from": "K",
+      "to": "N",
+      "distance": 5.0,
+      "time": 6.0,
+      "closed": false
+    },
+    {
+      "from": "L",
+      "to": "M",
+      "distance": 2.0,
+      "time": 3.0,
+      "closed": false
+    },
+    {
+      "from": "L",
+      "to": "O",
+      "distance": 7.0,
+      "time": 8.0,
+      "closed": false
+    },
+    {
+      "from": "M",
+      "to": "O",
+      "distance": 3.0,
+      "time": 4.0,
+      "closed": false
+    },
+    {
+      "from": "N",
+      "to": "O",
+      "distance": 4.0,
+      "time": 5.0,
+      "closed": false
+    },
+    {
+      "from": "B",
+      "to": "F",
+      "distance": 9.0,
+      "time": 11.0,
+      "closed": false
+    },
+    {
+      "from": "C",
+      "to": "H",
+      "distance": 10.0,
+      "time": 12.0,
+      "closed": false
+    },
+    {
+      "from": "E",
+      "to": "K",
+      "distance": 8.0,
+      "time": 9.0,
+      "closed": false
+    },
+    {
+      "from": "G",
+      "to": "N",
+      "distance": 6.0,
+      "time": 7.0,
+      "closed": false
+    }
+  ]
+}
